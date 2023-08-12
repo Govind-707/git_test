@@ -1,3 +1,3 @@
 # git_test
 My first odin project
-Hello Odin!
+Hello Odin! by gs
